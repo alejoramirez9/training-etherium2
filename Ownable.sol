@@ -8,7 +8,7 @@ pragma solidity >=0.7.0 <0.9.0;
  */
 contract Ownable {
 
-    /**
+    /****
      * @dev Set contract deployer as owner
      */
     constructor() {
